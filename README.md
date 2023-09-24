@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @VartoSss
-- 👀 I’m interested in эшекере
-- 🌱 I’m currently learning эээээээээ
-- 💞️ I’m looking to collaborate on шииииииш
+- 👀 I’m interested in programming (suddenly)
 - 📫 How to reach me: Go to matmeh
 
 <!---
